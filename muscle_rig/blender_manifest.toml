@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "muscle_rig"
+version = "0.1.0"
+name = "Muscle Rig (Rigify)"
+tagline = "Pose-driven muscle bulge and jiggle on top of a Rigify rig"
+maintainer = "muscle-deformation-rig-experimental"
+type = "add-on"
+tags = ["Rigging", "Animation"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
