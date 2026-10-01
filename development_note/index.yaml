@@ -1,0 +1,16 @@
+# development_note/index.yaml
+last_updated: "2026-10-01"
+modules:
+  - name: muscle_rig
+    path: modules/muscle_rig/timeline.md
+    description: "The add-on: sensor bones, masks, bulge GN, jiggle GN, Rigify hook, UI"
+  - name: validation
+    path: modules/validation/timeline.md
+    description: "Demo mannequin, headless tests, renders, benchmark, environment quirks"
+standalone:
+  - name: architecture
+    path: architecture.md
+    description: "Data flow from Rigify pose to skin push and jiggle; key design decisions"
+  - name: research
+    path: ../docs/research.md
+    description: "Survey of muscle-rig approaches, measurements, limitations, sources"
